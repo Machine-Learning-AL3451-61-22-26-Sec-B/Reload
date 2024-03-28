@@ -46,7 +46,7 @@ def learn(concepts, target):
 def main():
     st.title("Candidate Elimination Algorithm")
 
-    file_path = "C:/Users/USER/OneDrive/Desktop/ml w1/ml experiment 1.csv"
+    file_path = "https://github.com/Machine-Learning-AL3451-61-22-26-Sec-B/Reload/blob/main/ml%20experiment%201.csv"
     
     try:
         # Reading CSV data
