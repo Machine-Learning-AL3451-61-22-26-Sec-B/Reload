@@ -1,1 +1,1 @@
-Decision-Tree
+candidate elimination algorithm
