@@ -1,1 +1,1 @@
-candidate elimination algorithm
+For a given set of training data examples stored in a .CSV file, implement and demonstratethe Candidate-Elimination algorithm to output a description of the set of all hypothesesconsistent with the training examples.
